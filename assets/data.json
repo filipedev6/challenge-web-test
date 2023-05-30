@@ -1,0 +1,92 @@
+{
+    "name": "Lia Decorações",
+    "theme": {
+        "colorX": "rgb(0, 0, 0)",
+        "color0": "rgb(255, 255, 255)",
+        "color1": "rgb(247, 22, 116)",
+        "color2": "rgb(255, 224, 220)"
+    },
+    "section": {
+        "hero": {
+            "headline": "Transforme suas refeições em momentos inesquecíveis",
+            "subheadline": "Descubra a arte de receber com estilo e encante seus convidados com nossas criações exclusivas para tornar suas refeições verdadeiramente memoráveis.",
+            "cta": "Transforme sua mesa",
+            "review": {
+                "author": "Nora Assunção",
+                "role": "Proprietária de Salão de Eventos",
+                "content": "A decoração de mesa personalizada da Lia trouxe vida e encanto aos meus eventos. Fiquei maravilhada com o resultado."
+            }
+        },
+        "features": [
+            {
+                "title": "Exclusividade",
+                "content": "A decoração de mesa personalizada permite que você crie um ambiente único e exclusivo, refletindo seu estilo e personalidade. É uma maneira de destacar-se e criar uma experiência memorável para você e seus convidados.",
+                "cta": "Seja único(a)",
+                "review": {
+                    "author": "Mariana Hamperson",
+                    "role": "Arquiteta",
+                    "content": "Fiquei impressionada com as decorações da Lia trouxeram aos meus projetos. Cada mesa se tornou uma verdadeira obra de arte, cativando meus clientes e elevando o design de interiores a outro nível."
+                }
+            },
+            {
+                "title": "Personalização",
+                "content": "A possibilidade de personalizar a decoração da mesa permite que você escolha elementos e detalhes que se adequem perfeitamente ao seu gosto e à ocasião específica. Desde a seleção de cores, tecidos e materiais até a escolha de acessórios e arranjos florais, a personalização permite que você crie uma atmosfera sob medida.",
+                "cta": "Customize sua mesa",
+                "review": {
+                    "author": "William Dunne",
+                    "role": "Organizador de eventos",
+                    "content": "As decorações de mesa superaram minhas expectativas, agregando um toque único e encantador a cada ocasião. Meus clientes ficaram maravilhados!"
+                }
+            },
+            {
+                "title": "Expressão de estilo",
+                "content": "A decoração de mesa personalizada é uma forma de expressar seu estilo pessoal e transmitir sua criatividade. Permite que você conte uma história através da escolha dos elementos decorativos, proporcionando um toque especial e uma atmosfera única aos seus eventos.",
+                "cta": "Mostre seu estilo",
+                "review": {
+                    "author": "Ella Riley",
+                    "role": "Influenciadora de design",
+                    "content": "Decorações de mesa da Lia refletem meu estilo, toque fashion e encantador em cada jantar. Meus seguidores adoram!"
+                }
+            }
+        ],
+        "testimonials": [
+            {
+                "content": "Me impressionei com a criatividade e talento excepcionais da artista Lia. Sua dedicação em transformar mesas é verdadeiramente inspiradora!",
+                "author": "Aline Destro",
+                "role": "Design de Interiores"
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Quais tipos de eventos são adequados para as decorações de mesa?",
+                "answer": "As decorações de mesa personalizadas da Lia são perfeitas para uma ampla variedade de eventos, incluindo jantares formais, festas temáticas, casamentos, aniversários e eventos corporativos."
+            },
+            {
+                "question": "Como funciona o processo de personalização das decorações de mesa?",
+                "answer": "O processo de personalização das decorações de mesa envolve uma consulta inicial para entender suas preferências e estilo. A Lia trabalhará em estreita colaboração com você, oferecendo sugestões e opções para criar uma decoração única e sob medida."
+            },
+            {
+                "question": "Posso escolher as cores, materiais e estilos das decorações de mesa?",
+                "answer": "Sim! A Lia oferece uma variedade de opções em termos de cores, materiais e estilos. Ela estará disponível para discutir suas preferências e garantir que as decorações de mesa atendam às suas expectativas e se adequem perfeitamente ao seu evento."
+            },
+            {
+                "question": "Quanto tempo leva para receber as decorações de mesa personalizadas?",
+                "answer": "O prazo de entrega das decorações de mesa personalizadas varia dependendo da complexidade do projeto e da demanda atual. A Lia fornecerá um cronograma estimado durante o processo de consulta inicial."
+            },
+            {
+                "question": "Quais são as opções de orçamento para as decorações de mesa personalizadas?",
+                "answer": "A Lia trabalha com uma variedade de opções de orçamento para atender às necessidades dos clientes. O preço das decorações de mesa personalizadas dependerá do escopo do projeto, dos materiais selecionados e dos detalhes específicos."
+            }
+        ],
+        "reinforcing": {
+            "title": "Transforme suas mesas. Surpreenda seus convidados",
+            "cta": "Inove agora"
+        },
+        "note": {
+            "title": "Você está quase lá",
+            "content": "Agradecemos por visitar nossa página. Queremos tornar suas mesas memoráveis. Não perca a chance de transformar seus momentos especiais. Clique agora para descobrir como podemos criar algo único para você.",
+            "author": "Lia",
+            "role": "Artista e Decoradora"
+        }
+    }
+}
