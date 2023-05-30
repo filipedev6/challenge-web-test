@@ -1,0 +1,99 @@
+.introducao{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.introducao-conteudo h1{
+  font-size: 1.875rem;
+  color: #111827;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.introducao-conteudo > p{
+  font-size: .75rem;
+  color: #8A909B;
+  font-weight: 400;
+  margin-bottom: 28px;
+}
+
+.introducao-conteudo a{
+  display: inline-block;
+  background: #F529E4;
+  padding: 10px 16px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: .875rem;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.introduca-extras{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.extras-header{
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.extras-header-stars{
+  display: flex;
+  gap: 4px;
+}
+
+.extras-header-stars img{
+  width: 14px;
+}
+
+.extras-header-conteudo{
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.extras-header-conteudo span{
+  font-weight: 400;
+  font-size: .75rem;
+  color: #8A909B;
+}
+
+.extras-card{
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.extras-card img{
+  width: 45px;
+  height: 45px;
+  border-radius: 999px;
+  border: 2px solid #F530E5;
+}
+
+.extras-card-conteudo{
+  display: flex;
+  flex-direction: column;
+}
+
+.extras-card-conteudo p{
+  font-weight: 700;
+  font-size: 1rem;
+  color: #1F2937;
+}
+
+.extras-card-conteudo span{
+  font-size: .875rem;
+  font-weight: 400;
+  color: #B2B7C1;
+}
+
+.extras-card-conteudo .extras-card-conteudo-nome{
+  color: #6B7280;
+  font-weight: 700;
+}
+

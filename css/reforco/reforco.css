@@ -1,0 +1,48 @@
+.reforco{
+  padding-inline: 16px;
+  padding-block: 20px;
+}
+
+.reforco-images{
+  max-width: 200px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4px;
+}
+
+.reforco-images img{
+  width: 35px;
+  height: 35px;
+  border-radius: 999px;
+  border: 2px solid #F530E5;
+}
+
+.reforco-card{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border: 2px solid #F529E4;
+  border-radius: 12px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-inline: 18px;
+}
+
+.reforco-card h2{
+  font-size: 1.375rem;
+  color: #111827;
+  font-weight: 700;
+}
+
+.reforco-card a{
+  display: inline-block;
+  background: #F529E4;
+  padding: 10px 16px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: .875rem;
+  font-weight: 500;
+  align-self: center;
+}

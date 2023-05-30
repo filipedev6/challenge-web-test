@@ -1,0 +1,71 @@
+.caracteristicas {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: start;
+}
+
+.caracteristicas h2{
+  font-size: 1.875rem;
+  color: #111827;
+  font-weight: 700;
+}
+
+.caracteristicas p{
+  font-size: .75rem;
+  color: #8A909B;
+  font-weight: 400;
+}
+
+.caracteristicas a{
+  display: inline-block;
+  background: #F529E4;
+  padding: 10px 16px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: .875rem;
+  font-weight: 500;
+}
+
+.caracteristicas-card{
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 20px;
+}
+
+.caracteristicas-card-author{
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.caracteristicas-card-author img{
+  width: 35px;
+  height: 35px;
+  border-radius: 999px;
+  border: 2px solid #F530E5;
+}
+
+.caracteristicas-card-nome{
+  color: #6B7280;
+  font-weight: 700;
+}
+
+.caracteristicas-card span{
+  font-size: .5rem;
+  font-weight: 400;
+  color: #B2B7C1;
+}
+
+.caracteristicas-hero > img{
+  margin-bottom: 72px;
+}
+
+.caracteristicas-hero h2, .caracteristicas-hero > p{
+  margin-bottom: 14px;
+}
+
+.caracteristicas-hero a {
+  margin-bottom: 20px;
+}

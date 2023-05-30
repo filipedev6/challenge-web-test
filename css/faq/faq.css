@@ -1,0 +1,33 @@
+.faq{
+  padding-block: 20px;
+}
+
+.faq h2 {
+  font-size: 1.75rem;
+  color: #111827;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.faq-container{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.faq-conteudo{
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.faq-conteudo span{
+  color: #1F2937;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.faq-conteudo p{
+  font-size: 14px;
+  color: #717785;
+}
