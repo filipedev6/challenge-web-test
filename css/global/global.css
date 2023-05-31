@@ -15,6 +15,13 @@ body {
   padding-right: 20px;
 }
 
+.global-container{
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
 img {
   max-width: 100%;
   display: block;
